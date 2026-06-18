@@ -1,0 +1,6 @@
+Project built using Spring Boot (backend) and React.js (frontend)
+Backend runs on port 8080 and handles all REST APIs
+Frontend runs on port 8081 and communicates with backend via API calls
+Database used: MySQL / H2
+Features include Poll creation, voting system, and result visualization
+Project follows MVC architecture (Controller, Service, Repository layers)
